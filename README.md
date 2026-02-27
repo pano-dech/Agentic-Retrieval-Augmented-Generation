@@ -1,0 +1,1 @@
+Instead of answering from a fixed knowledge base, the user is prompted for URLs the user would like the program to browse through and collect information. This is what makes the generation of answers augmented by retrieval. This was written in Jupyter Notebook and makes use of Google's Generative AI, Numpy, and scikit-learn, amonng other necessary imports.
